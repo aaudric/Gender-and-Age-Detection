@@ -14,7 +14,7 @@
 
 
 ## Description
-This project uses deep learning to predict gender and age from facial images. It leverages the UTKFace dataset to train a convolutional model that predicts the gender (male or female) and age (as a continuous value) of individuals in images. This notebook includes loading the data, preparing the images, building and training the model, and visualizing the results.
+This project uses deep learning to predict gender and age from facial images. It leverages the UTKFace dataset to train a convolutional model that predicts the gender (man or woman) and age (as a continuous value) of individuals in images. This notebook includes loading the data, preparing the images, building and training the model, and visualizing the results.
 
 ## Dataset
 The dataset used in this project is the UTKFace dataset, which is publicly available for academic research purposes. It contains over 20,000 face images with annotations of age, gender, and ethnicity. The images cover a wide range of ages, from 0 to 116 years old. More details and the dataset itself can be found at the [UTKFace website](https://susanqq.github.io/UTKFace/).
