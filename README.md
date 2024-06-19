@@ -1,6 +1,6 @@
 # Gender and Age Detection Project
 
-![Predictions](/prediction%20vs%20reaal.png)
+![Predictions](/model1/prediction%20vs%20reaal.png)
 
 ## Table of Contents
 
