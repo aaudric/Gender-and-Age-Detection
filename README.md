@@ -1,10 +1,10 @@
-# Gender and Age Detection Project
+# Gender and Age Detection Project 👴🏼 👵🏼
 
 ![Predictions](/model1/prediction%20vs%20reaal.png)
 
 ## Table of Contents
 
-- [Gender and Age Detection Project](#gender-and-age-detection-project)
+- [Gender and Age Detection Project 👴🏼 👵🏼](#gender-and-age-detection-project--)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Dataset](#dataset)
